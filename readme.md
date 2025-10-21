@@ -1,4 +1,4 @@
-# vite‑teste‑project
+# Teste Front-End
 
 Projeto desenvolvido como parte de um processo seletivo. Consiste em uma página web construída com **HTML**, **Sass (SCSS)** e **TypeScript**, utilizando o bundler Vite, com foco em organização de código, boas práticas e responsividade.
 
