@@ -40,11 +40,6 @@ Siga os passos abaixo para rodar o projeto localmente:
     npm run dev
     ```
 
-4. Para build de produção:  
-    ```bash
-    npm run build
-    ```
-
 ---
 
 ##  Estrutura do Projeto
